@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">Dev Cards</string>
     <string name="name_of_developer">AMIT</string>
+    <string name="profile_picture">Photo</string>
+    <string name="country_flag">Country</string>
+    <string name="dev_role">Full Stack</string>
+    <string name="company_name">Google</string>
+    <string name="dev_score">91</string>
+    <string name="atribute_1">JavaScript</string>
+    <string name="dev_total_score">90</string>
+    <string name="attribute_2">C++</string>
+    <string name="attribute_3">Ruby</string>
+    <string name="attribute_4">HTML</string>
+    <string name="attribute_5">Python</string>
+    <string name="attribute_6">TypeScript</string>
+    <string name="attribute_score_1">94</string>
+    <string name="attribute_score_4">75</string>
+    <string name="attribute_score_5">76</string>
+    <string name="attribute_score_2">84</string>
+    <string name="attribute_score_6">78</string>
+    <string name="attribute_score_3">92</string>
+    <string name="job_search_status">Casually looking</string>
+    <string name="dev_name">ALEJANDRO</string>
 </resources>
