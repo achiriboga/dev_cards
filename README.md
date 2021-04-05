@@ -1,7 +1,7 @@
 # Dev Cards
 
 ## Problem
-How can you easily spot a developers expertise? What programming languagues is someone most proficient in? How can be the ideal member for our development team?
+How can you easily spot a developers expertise? What programming languagues is someone most proficient in? How is the most suited person based on our development needs?
 
 While questioning developers about how to use design patterns—and other coding practices— is a way to understand if they have used a language, it doesn't provide the full picture. When dealing with coding expertise, its safe to say that consistency and effort makes a great part. 
 
