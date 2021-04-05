@@ -17,7 +17,7 @@ This profile will include picture, total score, role (Frontend, Backend, Full St
 the user has been using in the past. 
 
 <p align="center">
-  <img src="https://github.com/achiriboga/dev_cards/blob/master/app/src/main/res/drawable/example.png" width="350" alt="Dev card example">
+  <img src="https://github.com/achiriboga/dev_cards/blob/master/app/src/main/res/drawable/example.png" width="330" alt="Dev card example">
 </p>
 
 An Android App will be used as the Frontend to test this idea. Kotlin being the language to be used for development so the app will be aviable for Android. 
