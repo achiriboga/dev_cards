@@ -16,7 +16,9 @@ As a way to easily give it a try, I want to create Dev Cards that can describe a
 This profile will include picture, total score, role (Frontend, Backend, Full Stack, etc), country, company, and the six main languages
 the user has been using in the past. 
 
-![Dev_card_example](https://github.com/achiriboga/dev_cards/blob/master/app/src/main/res/drawable/example.png height="500)
+<p align="center">
+  <img src="https://github.com/achiriboga/dev_cards/blob/master/app/src/main/res/drawable/example.png" width="350" alt="Dev card example">
+</p>
 
 An Android App will be used as the Frontend to test this idea. Kotlin being the language to be used for development so the app will be aviable for Android. 
 
