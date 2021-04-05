@@ -22,4 +22,6 @@
     <string name="job_search_status">Casually looking</string>
     <string name="dev_name">ALEJANDRO</string>
     <string name="company_logo">Company Logo</string>
+    <string name="button_like">YES 👍</string>
+    <string name="notNow">NO ❌</string>
 </resources>
